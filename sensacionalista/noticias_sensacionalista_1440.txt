@@ -1,0 +1,7 @@
+Contrariando a velha pergunta “onde estão os príncipes hoje em dia?”, uma porção deles marcou presença em festa de celebridades que ocorreu ontem, na Zona Sul de São Paulo. Mas no lugar das belas armaduras e espadas embainhadas, trajavam calças brancas e ostentavam copos de vodca com energético.Só que todo este charme não surtiu efeito, de acordo com uma foto que circula nas redes sociais. A imagem mostra que Bela, a Adormecida, resistiu aos encantos do príncipe, que parecia estar mais interessado em falar de si mesmo do que qualquer coisa. Ao invés de cair nos braços do rapaz, a princesa caiu nos braços do sofá. “Se o papo já me fez dormir, imagina o beijo”.Branca de Neve, outra que marcou presença na festa, comentou a situação e defendeu a amiga. “Qual é? Alguém pode atualizar estes caras no quesito cantadas encantadas?”, disse a jovem, que entrou e saiu da festa sozinha, mas garante que se divertiu. “Não comi maçã de bruxa nenhuma, mas conversar com esses caras me deu um sono…”Enquanto Bela curtiu a noite sonhando com alguém que não perguntasse ‘como vai a princesinha?’, Cinderela, com o sapato na mão, foi embora mais cedo, garantindo que príncipe nenhum usasse a velha desculpa do sapatinho de cristal.
+
+
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="https://5506504.fls.doubleclick.net/activityi;src=5506504;type=amazo0;cat=flood0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+

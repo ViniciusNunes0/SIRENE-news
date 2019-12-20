@@ -1,0 +1,4 @@
+Agora você pode ter as notícias do Sensacionalista em seu site ou blog ou onde mais você quiser inteiramente grátis. Veja como ficará:if (WIDGETBOX) WIDGETBOX.renderWidget('1c14e400-f6ab-4ce2-971d-e27096bf4f50');
+Veja o exemplo com 160 pixels de largura
+if (WIDGETBOX) WIDGETBOX.renderWidget('81fde749-f1d9-4498-b770-823569ac3a7d');
+Instalar é fácil. Clique no botão “Get Widget” aí em cima no tamanho que você escolheu, escolha onde você quer instalar (wordpress, facebook, twitter, blogger e muito mais), copie e cole o código em seu site. Você pode mudar o que quiser e ajustar tudo como preferir, das cores ao tamanho da caixa. Para isso, clique aqui. Dúvidas? Pergunte abaixo nos comentários. Ou entre em contato pelo email. Instalou? Coloque o endereço aí nos comentários para todo mundo ver!
